@@ -4,7 +4,7 @@ Este proyecto utiliza Selenium y Python para automatizar tareas relacionadas con
 
 ## Tecnologías utilizadas
 
-1. Python 3.x: Lenguaje principal del proyecto.
+1. Python 3.13.1: Lenguaje principal del proyecto.
 2. Selenium: Biblioteca para la automatización de navegadores web.
 3. GitHub Actions: Plataforma de automatización para CI/CD.
 4. Pytest: Herramienta para escribir y ejecutar pruebas.
