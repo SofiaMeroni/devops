@@ -21,7 +21,7 @@ El archivo de configuración se encuentra en `.github\workflows\pipeline.yml`.
 
 ## Ejemplo del pipeline en acción
 
-![Pipeline](imagenes\captura-del-test.png)
+<img src="imagenes\captura-del-test.png" alt="pipeline" width="1500" height="800">
 
 
 
